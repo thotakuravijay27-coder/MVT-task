@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mvtpdb',
         'USER':'root',
-        'PASSWORD':'vijay27',
+        'PASSWORD':'Vijay@27',
         'HOST':'localhost',
         'PORT':'3306',
     }
