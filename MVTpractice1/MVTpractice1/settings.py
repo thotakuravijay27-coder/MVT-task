@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'MVTpractice1.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mvtdb',
+        'NAME': 'mvtpdb',
         'USER':'root',
         'PASSWORD':'vijay27',
         'HOST':'localhost',
